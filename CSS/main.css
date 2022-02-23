@@ -1,0 +1,66 @@
+#menuBG {
+    width:640px;
+    height:550px;
+    margin: 10px auto;
+    background-color: #634321;
+}
+
+#frmMenu {
+    width: 640px;
+    height: 200px;
+}
+
+#totalPrice {
+    width: 200px;
+    height: 190px;
+    margin: 0 auto;
+    float: right;
+}
+
+.left {
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding-left: 20px;
+}
+
+.right {
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+#showText {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+}
+
+#cart {
+    top: 0;
+    margin: 0px auto;
+    width: 400px;
+    height: 200px;
+}
+
+#btnOrder {
+    margin: 10px 0px 0px 250px;
+    width:100px;
+    height:40px;
+}
+
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #7D862D;
+}
+
+h3 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #7D862D;
+}
+
+div {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #7D862D;
+}
